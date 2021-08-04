@@ -1,0 +1,139 @@
+body{
+    text-align: center;
+    border-style: dotted;
+    margin: 20px;
+    padding:20px;
+}
+#a{
+    height:225px;
+    width:225px;
+}
+#b{
+    height:225px;
+    width:225px;
+}
+#c{
+    height:225px;
+    width:225px;
+}
+#about img{
+    height:175px;
+    width:175px;
+    border-radius: 50%;
+    text-align: center;
+}
+#about{
+    background-color: lightcoral;
+}
+.menu{
+ list-style: none;
+    font-family: cursive;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+}
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.links:hover {
+    background-color: darkgray;
+}
+#writings img{
+    height:500px;
+}
+#books .text-capitalize{
+    font-size: 20px;
+}
+.img_modal{
+    display: inline-block;
+}
+#books img{
+    height:400px;
+    width:300px;
+}
+#img{
+    height: 105px;
+    width:130px;
+}
+#about{
+    text-align: center;
+}
+#related #img{
+    text-align: center;
+    height:87px;
+    width:86.5px;
+}
+#rt{
+    height:75px;
+    width:75px;
+}
+#rt{
+    height:40px;
+    width:40px;
+}
+
+#button2{
+    height:125px;
+    width:125px;
+}
+#related button{
+    height:150px;
+    width:150px;
+}
+#img_earth{
+    height:85px;
+    width:90px;
+}
+#img-sun{
+    height:110px;
+    width:125px;
+}
+#aa{
+    height:200px;
+    width:200px;
+}
+#bb{
+    height:200px;
+    width:200px;
+}#cc{
+    height:200px;
+    width:200px;
+}
+#dd{
+    height:200px;
+    width:200px;
+}
+#ee{
+    height:200px;
+    width:200px;
+}
+#ff{
+    height:200px;
+    width:200px;
+}
+#gg{
+    height:200px;
+    width:200px;
+}
+#hh{
+    height:150px;
+    width:300px;
+}
+#ii{
+    height:200px;
+    width:200px;
+}
+#sw{
+    height:95px;
+    width:95px;
+}
+#related button{
+    height:100px;
+    width:100px;
+}
